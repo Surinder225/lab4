@@ -1,0 +1,2 @@
+# ATTENTION EVERYBODY LINUX IS EASY
+echo"Surinder Singh"
